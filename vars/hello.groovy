@@ -1,3 +1,3 @@
-def cell(){
-  echo "Hello World"
+def call() {
+  echo "Hello World, Hello Dosto"
 }
